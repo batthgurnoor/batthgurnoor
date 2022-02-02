@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @batthgurnoor
 - 👀 I’m interested in coding & volleyball
-- 🌱 I’m currently learning C# .net
+- 🌱 I’m currently learning React and C# .net
 - 💞️ I’m looking to collaborate on .net and Java
 - 📫 How to reach me - PM on gskaran3@gmail.com
 

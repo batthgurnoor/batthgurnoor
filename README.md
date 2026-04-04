@@ -4,8 +4,6 @@ Full-Stack Developer | CIS Graduate (UFV) | Based in BC, Canada
 
 I'm a Computer Information Systems graduate from the University of the Fraser Valley with experience in full-stack development. I enjoy creating tools that solve practical problems and improve everyday workflows through simple and efficient software.  Currently looking for a **Junior Software Developer role**.
 
---
-
 
 ## Connect With Me
 
@@ -14,7 +12,6 @@ I'm a Computer Information Systems graduate from the University of the Fraser Va
 - [Email](mailto:gskaran3@gmail.com)
 
 
----
 
 ## Featured Projects
 
@@ -23,21 +20,18 @@ Full-stack Kanban productivity app with secure authentication - **React (TypeScr
 
 [View Repository](https://https://github.com/batthgurnoor/productivity-system)
 
----
 
 ### Healthcare Decision Support System
 Data-driven system for optimizing staffing and patient flow  - **Python** and **React**.
 
 [View Repository](https://github.com/batthgurnoor/HealthcareDSS)
 
----
 
 ### Momentum Fitness App
 Workout tracking and goal management application  - **React Native**, **Firebase** and **Expo**.
 
 [View Repository](https://github.com/batthgurnoor/Momentum)
 
----
 
 ## Tech Stack
 
@@ -64,7 +58,7 @@ Workout tracking and goal management application  - **React Native**, **Firebase
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
---- 
+
 
 ## Fun Fact
 

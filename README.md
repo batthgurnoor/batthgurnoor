@@ -1,4 +1,4 @@
-# Hi, I'm **Gurnoor Singh Batth **
+# Hi, I'm Gurnoor Singh Batth 
 
 Full-Stack Developer | CIS Graduate (UFV) | Based in BC, Canada  
 

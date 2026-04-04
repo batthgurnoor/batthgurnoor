@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer | 🎓 CIS Graduate (UFV) | 🇨🇦 Based in BC, Canada  
 
-I build real-world applications that solve practical problems — from productivity systems to data-driven decision tools. Currently looking for **Software Developer / IT roles**.
+I build real-world applications that solve practical problems — from productivity systems to data-driven decision tools. Currently looking for a **Junior Software Developer role**.
 
 ---
 
@@ -73,19 +73,6 @@ Workout tracking and goal management application
 
 ---
 
-## 📊 GitHub Stats
-
-![Gurnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=batthgurnoor&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batthgurnoor&layout=compact&theme=radical)
-
----
-
-## 🔥 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=batthgurnoor&theme=react-dark)
-
----
 
 ## 📫 Connect With Me
 

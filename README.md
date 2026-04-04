@@ -31,7 +31,7 @@ Data-driven system for optimizing staffing and patient flow  - **Python** and **
 ---
 
 ### Momentum Fitness App
-Workout tracking and goal management application  - **React Native** and **Expo**
+Workout tracking and goal management application  - **React Native**, **Firebase** and **Expo**
 [View Repository](https://github.com/batthgurnoor/Momentum)
 
 ---
@@ -65,4 +65,4 @@ Workout tracking and goal management application  - **React Native** and **Expo*
 
 ## Fun Fact
 
-I built my own productivity system because I didn’t want to rely on existing SaaS tools — and now I’m turning it into something bigger 🚀
+I built my own productivity system because I didn’t want to rely on existing SaaS tools — and now I’m turning it into something bigger.

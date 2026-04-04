@@ -51,7 +51,7 @@ Workout tracking and goal management application  - **React Native**, **Firebase
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge)
 ![H2](https://img.shields.io/badge/H2-Database-blue?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Planned-blue?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

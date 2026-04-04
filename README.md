@@ -4,7 +4,7 @@ Full-Stack Developer | CIS Graduate (UFV) | Based in BC, Canada
 
 I'm a Computer Information Systems graduate from the University of the Fraser Valley with experience in full-stack development. I enjoy creating tools that solve practical problems and improve everyday workflows through simple and efficient software.  Currently looking for a **Junior Software Developer role**.
 
----
+--
 
 
 ## Connect With Me
@@ -19,19 +19,22 @@ I'm a Computer Information Systems graduate from the University of the Fraser Va
 ## Featured Projects
 
 ### Smart Task & Productivity System
-Full-stack Kanban productivity app with secure authentication - **React (TypeScript, Vite, Tailwind)** and **Spring Boot (Java)**
+Full-stack Kanban productivity app with secure authentication - **React (TypeScript, Vite, Tailwind)** and **Spring Boot (Java)**.
+
 [View Repository](https://https://github.com/batthgurnoor/productivity-system)
 
 ---
 
 ### Healthcare Decision Support System
-Data-driven system for optimizing staffing and patient flow  - **Python** and **React**
+Data-driven system for optimizing staffing and patient flow  - **Python** and **React**.
+
 [View Repository](https://github.com/batthgurnoor/HealthcareDSS)
 
 ---
 
 ### Momentum Fitness App
-Workout tracking and goal management application  - **React Native**, **Firebase** and **Expo**
+Workout tracking and goal management application  - **React Native**, **Firebase** and **Expo**.
+
 [View Repository](https://github.com/batthgurnoor/Momentum)
 
 ---

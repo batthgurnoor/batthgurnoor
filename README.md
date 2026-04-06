@@ -18,7 +18,7 @@ I'm a Computer Information Systems graduate from the University of the Fraser Va
 ### Smart Task & Productivity System
 Full-stack Kanban productivity app with secure authentication - **React (TypeScript, Vite, Tailwind)** and **Spring Boot (Java)**.
 
-[View Repository](https://https://github.com/batthgurnoor/productivity-system)
+[View Repository](https://github.com/batthgurnoor/productivity-system)
 
 
 ### Healthcare Decision Support System
